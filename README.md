@@ -55,3 +55,16 @@
 
 **공통 모듈** — [`helpers/`](./helpers/)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
+
+
+<div align="center">
+
+### 📮 Contact
+
+[![Email](https://img.shields.io/badge/j.purplerose@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.purplerose@gmail.com)
+[![Homepage](https://img.shields.io/badge/juyounga.kr-6C4AB6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juyounga.kr)
+
+<sub>Urban Data Science · Machine Learning · Data Engineering · Smart City · XAI · Education · Data Literacy</sub>
+
+</div>
+
