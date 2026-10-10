@@ -4,7 +4,6 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data Scientist;Second+line+of+text)](https://git.io/typing-svg)
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=데이터 분석가;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
