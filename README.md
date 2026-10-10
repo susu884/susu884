@@ -62,6 +62,7 @@
 ### 📮 Contact
 
 ![PHONE](https://img.shields.io/badge/PHONE-010.4277.5856-brightgreen?style=for-the-badge)
+<br/>
 ![Email](https://img.shields.io/badge/Email-zpsel5856@naver.com-red?style=for-the-badge)
 
 <sub>Data Collection · Data Preprocessing · Exploratory Data Analysis · Modeling · Machine Learning</sub>
