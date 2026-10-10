@@ -33,3 +33,25 @@
 
 **Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+
+## 📂 Portfolio
+
+데이터 생애주기를 **한 노트북 안에서** 검증하는 것을 원칙으로 합니다.
+품질 점검 → EDA → 모델링 → 진단 → 해석까지, 모든 코드 셀 아래에 **판단이 담긴 해석**을 남깁니다.
+
+| # | 프로젝트 | 기법 | 상태 |
+|:--:|---|---|:--:|
+| 01 | [보스턴 하우징 가격 결정요인](./01_%5B선형회귀%5D_보스턴_하우징/) | 선형회귀 | ![완료](https://img.shields.io/badge/완료-2EA043?style=flat-square) |
+| 02 | 보험료 결정요인 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 03 | 다이아몬드 가격 예측 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 04 | 하우징 데이터셋 | 선형회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 05 | 사과 품종 분류 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 06 | 타이타닉 생존 예측 | 로지스틱 회귀 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 07 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 08 | (미정) | 머신러닝 · 예측 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 09 | (미정) | 머신러닝 · 군집 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+| 10 | (미정) | 머신러닝 · 분류 | ![예정](https://img.shields.io/badge/예정-6E7681?style=flat-square) |
+
+**공통 모듈** — [`helpers/`](./helpers/)
+품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`)
