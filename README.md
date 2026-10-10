@@ -30,11 +30,11 @@
 ![kiwi](https://img.shields.io/badge/kiwipiepy-brightgreen?)
 
 **Collection & Automation**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-3776AB?&logo=python&logoColor=white)
 
 **Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?&logo=python&logoColor=white)
 
 
 ## 📂 Portfolio
