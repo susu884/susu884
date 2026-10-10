@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <img src="https://github.com/susu884/file/blob/main/jisu_github_welcome_light.gif?raw=true"/>
+    <img src="https://github.com/susu884/file/blob/main/jisu_github_welcome_transparent.gif?raw=true"/>
 </p>
 
 
