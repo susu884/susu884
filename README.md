@@ -4,6 +4,11 @@
 </p>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;kimjisu;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+## 🙋‍♂️ About Me
+
+| 구분 | 내용 |
+| :--- | :--- |
+| **Role** | Data Analyst / Data Collector |
+| **Focus** | 데이터 전처리 · 데이터 시각화 · 데이터 분석 |
+| **Education** | 수원대학교 미디어커뮤니케이션학과 (졸업) |
+| **Contact** | `zpsel5856@naver.com` |
