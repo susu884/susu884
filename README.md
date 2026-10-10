@@ -26,7 +26,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![scipy](https://img.shields.io/badge/scipy-F7931E?logo=scipy&logoColor=white)
+![scipy](https://img.shields.io/badge/scipy-blue?logo=scipy&logoColor=white)
 ![kiwi](https://img.shields.io/badge/kiwi-brightgreen?logo=kiwi&logoColor=white)
 
 **Collection & Automation**  
