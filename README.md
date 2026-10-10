@@ -24,9 +24,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-4051B5logo=statsmodels&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scipy-F7931E?logo=scipy&logoColor=white)
+![scipy](https://img.shields.io/badge/scipy-F7931E?logo=scipy&logoColor=white)
+![kiwi](https://img.shields.io/badge/kiwi-F7931E?logo=kiwi&logoColor=white)
 
 **Collection & Automation**  
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
