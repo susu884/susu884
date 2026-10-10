@@ -61,7 +61,8 @@
 
 ### 📮 Contact
 
-[![PHONE](https://img.shields.io/badge/PHONE-010.4277.5856-brightgreen?style=for-the-badge)
+![PHONE](https://img.shields.io/badge/PHONE-010.4277.5856-brightgreen?style=for-the-badge)
+![Email](https://img.shields.io/badge/Email-zpsel5856@naver.com-red?style=for-the-badge)
 
 <sub>Urban Data Science · Machine Learning · Data Engineering · Smart City · XAI · Education · Data Literacy</sub>
 
