@@ -61,8 +61,7 @@
 
 ### 📮 Contact
 
-[![Email](https://img.shields.io/badge/j.purplerose@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.purplerose@gmail.com)
-[![Homepage](https://img.shields.io/badge/juyounga.kr-6C4AB6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juyounga.kr)
+[![PHONE](https://img.shields.io/badge/PHONE-010.4277.5856-brightgreen?style=for-the-badge)
 
 <sub>Urban Data Science · Machine Learning · Data Engineering · Smart City · XAI · Education · Data Literacy</sub>
 
