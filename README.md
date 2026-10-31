@@ -13,7 +13,7 @@
 | **Education** | 수원대학교 미디어커뮤니케이션학과 (졸업) |
 | **Contact** | `j_susuu@naver.com` |
 | **Career** | 리얼투데이 (2021.10-23.04)<br/>쌩끄프로덕션(2023.07-2026.01)|
-| **license** | `SQLD` `ADsP` `컴퓨터활용능력1급` |
+| **License** | `SQLD` `ADsP` `컴퓨터활용능력1급` |
 | **Notion**| https://app.notion.com/p/3f7d7aae1dba806ca27bf1aab55b6c0f|
 
 
