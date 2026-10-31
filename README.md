@@ -48,6 +48,7 @@
 
 **Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -72,13 +73,13 @@
 
 | # | 프로젝트 | 기법 | 핵심 결과 |
 |:--:|---|:--:|---|
-| 01 | [[Main Portfolio] 4개국 쇼핑몰의 스킨케어 크림 리뷰 분석](링크) | 텍스트마이닝 · 로지스틱 회귀 · 머신러닝(분류) | 리뷰 6,756건 × 9개 속성, 국가 × 속성 상호작용 유의(LRT p < .001), XGBoost Test MCC 0.438 · ROC-AUC 0.813 |
-| 02 | [다이아몬드 가격 예측](링크) | 선형회귀 | 중량 1% ↑ → 가격 약 1.88% ↑, RMSE 796.88달러, 원본 척도 R² 0.960 |
-| 03 | [보스턴 하우징 가격 결정 요인](링크) | 선형회귀 | 저소득층 비율(`LSTAT`)이 영향 1위, 조정 R² 0.748, RMSE 4.393천 달러 |
-| 04 | [사과 품질 분류](링크) | 로지스틱 회귀 | 정확도 0.792, AUC 0.868, 크기(`Size`)가 영향 1위 |
-| 05 | [피마 인디언 여성 당뇨병 여부 분류](링크) | 로지스틱 회귀 | AUC 0.854, 재현율 0.594, 포도당(`Glucose`)이 영향 1위 |
-| 06 | [캘리포니아 하우징 중위 가격 예측](링크) | 머신러닝(예측) | R² 0.785, 소득 + 입지가 SHAP 기여의 77% |
-| 07 | [SQL 문제 풀이](링크) | SQL | - |
+| 01 | [[Main Portfolio] 4개국 쇼핑몰의 스킨케어 크림 리뷰 분석](https://github.com/susu884/work/tree/main/01.%20[Main%20Portfolio]%20Skincare%20Cream%20Review%20Data%20Analysis_Four-Country%20Online%20Malls) | 텍스트마이닝 · 로지스틱 회귀 · 머신러닝(분류) | 리뷰 6,756건 × 9개 속성, 국가 × 속성 상호작용 유의(LRT p < .001), XGBoost Test MCC 0.438 · ROC-AUC 0.813 |
+| 02 | [다이아몬드 가격 예측](https://github.com/susu884/work/tree/main/02.%20Diamond_Price_Prediction_linear_regression) | 선형회귀 | 중량 1% ↑ → 가격 약 1.88% ↑, RMSE 796.88달러, 원본 척도 R² 0.960 |
+| 03 | [보스턴 하우징 가격 결정 요인](https://github.com/susu884/work/tree/main/03.%20Boston_Housing_Linear_Regression) | 선형회귀 | 저소득층 비율(`LSTAT`)이 영향 1위, 조정 R² 0.748, RMSE 4.393천 달러 |
+| 04 | [사과 품질 분류](https://github.com/susu884/work/tree/main/04.%20Apple_Quality_Logistic_Regression) | 로지스틱 회귀 | 정확도 0.792, AUC 0.868, 크기(`Size`)가 영향 1위 |
+| 05 | [피마 인디언 여성 당뇨병 여부 분류](https://github.com/susu884/work/tree/main/05.%20Pima_Indians_Diabetes_Logistic_Regression) | 로지스틱 회귀 | AUC 0.854, 재현율 0.594, 포도당(`Glucose`)이 영향 1위 |
+| 06 | [캘리포니아 하우징 중위 가격 예측](https://github.com/susu884/work/tree/main/06.%20Califonia_Housing_Machine%20Learning) | 머신러닝(예측) | R² 0.785, 소득 + 입지가 SHAP 기여의 77% |
+| 07 | [SQL 문제 풀이](https://github.com/susu884/work/blob/main/07.%20SQL_portfolio.pdf) | SQL | - |
 
 **공통 모듈** — [`helpers/`](./helpers/)
 품질 점검(`my_qtcheck`) · 시각화(`my_plot`) · 통계 검정(`my_stats`) · 전처리(`my_prep`) · 선형회귀(`my_ols`) · 로지스틱 회귀(`my_logit`) · 머신러닝(`my_ml`) · 군집(`my_cluster`)
